@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @songyuantai
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently learning game development
 - 📫 songyuantai@qq.com
 
 <!---
