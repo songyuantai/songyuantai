@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @songyuantai
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning java
 - 📫 songyuantai@qq.com
 
 <!---
